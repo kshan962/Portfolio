@@ -13,7 +13,7 @@ const App = () => {
     {
       title: "Prayer Times Finder",
       description: "Developed a web application to fetch and display Islamic prayer times based on user input for a specific address.",
-      technologies: ["JavaScript", "React", "Node.js"],
+      technologies: ["JavaScript", "Node.js"],
       github: "https://github.com/kshan962/Prayer-Timings",
       image: "./images/Prayer times pic.JPG"
     },
