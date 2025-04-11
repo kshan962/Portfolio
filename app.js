@@ -36,10 +36,10 @@ const App = () => {
   // Experience data
   const experiences = [
     {
-      title: "IT Technician",
+      title: "Coding Instructor",
       company: "theCoderSchool",
       period: "August 2023 - Present",
-      description: "Support 100+ students and staff by maintaining and troubleshooting systems, networks, and development environments across multiple classrooms."
+      description: "Taught students foundational programming concepts using various programming languages, fostering problem-solving and logical thinking skills."
     },
     {
       title: "Software Developer Intern",
